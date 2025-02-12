@@ -1,6 +1,6 @@
 # n8n-free-setup
 
-A free way to run **n8n** on an HTTPS server using **AWS EC2** and **duckDNS**.
+A cost-effective and secure solution for deploying **n8n** on an HTTPS-enabled server using **AWS EC2** and **duckDNS**, ensuring seamless automation workflows without additional hosting expenses.
 
 ## About The Project
 
