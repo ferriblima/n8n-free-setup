@@ -108,7 +108,11 @@ After completing the setup steps above, your n8n instance should be running and 
 
 3. **Build and Manage Workflows**:
    - Once you’re logged in, you can create workflows that integrate with various APIs.
-![N8n Setup Account](images/n8n-setup-account.png)
+
+Set up owner account screen:
+<div align="center">
+  <img src="images/n8n-setup-account.png" width="300">
+</div>
 
 ---
 
